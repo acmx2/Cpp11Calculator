@@ -1,13 +1,31 @@
-# Compiled Object files
-*.slo
-*.lo
+# Object files
+*.d
 *.o
+*.ko
+*.obj
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-
-# Compiled Static libraries
-*.lai
-*.la
+# Libraries
+*.lib
 *.a
+*.ilk
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+*.manifest
+*.manifest.res
+*.dep
+
+# Executables
+*.out
+*.app
+
+# Project garbage
+*.ncb
+*.suo
+*.user
+*.pdb
+*.idb
+*.pch

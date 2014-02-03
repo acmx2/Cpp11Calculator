@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classBracketToken.html" title="BracketToken" alt="" coords="5,83,107,112"/>
+<area shape="rect" id="node5" href="$classNumericToken.html" title="NumericToken" alt="" coords="131,83,237,112"/>
+<area shape="rect" id="node9" href="$classOperationToken.html" title="OperationToken" alt="" coords="261,83,376,112"/>
+<area shape="rect" id="node17" href="$classWhitespaceToken.html" title="WhitespaceToken" alt="" coords="400,83,525,112"/>
+<area shape="rect" id="node7" href="$classIntegerToken.html" title="IntegerToken" alt="" coords="69,160,168,189"/>
+<area shape="rect" id="node11" href="$classInvertionToken.html" title="InvertionToken" alt="" coords="192,160,299,189"/>
+<area shape="rect" id="node13" href="$classPrintResultToken.html" title="PrintResultToken" alt="" coords="323,160,445,189"/>
+<area shape="rect" id="node15" href="$classSignToken.html" title="SignToken" alt="" coords="469,160,552,189"/>
+</map>
